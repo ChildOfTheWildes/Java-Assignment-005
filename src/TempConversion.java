@@ -5,7 +5,7 @@
  *
  * @since Version 1.0
  */
-mport java.util.Scanner;
+import java.util.Scanner;
 
 public class TempConversion {
     static final Scanner input = new Scanner(System.in);
